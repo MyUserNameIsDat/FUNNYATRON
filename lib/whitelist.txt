@@ -12,13 +12,3 @@ probability 1 --ignore these words they make it so it dosent break
       
 # # #  
          
-unfunny doggo-memes ew whats wrong with you
-unfunny annoying-how-are-you-here's-a-cat-memes no.
-unfunny humans-in-general not really, funny is offensive
-funny memes-usually yeah i'd say so
-funny memes sometimes...
-unfunny ur-mom your mom is a lot of (bad) things, funny isnt one of them
-funny r/programmerhumor if (meme.origion(meme)==https://www.reddit.com/r/programmerhumor) { boolean funny = true; }
-funny programming-memes usually.
-unfunny liberal-memes if you like reading a 4000000 page comedy book thats not even funny and makes no sense then sure, actually no go away.
-funny carmelo he is in fact the funny
