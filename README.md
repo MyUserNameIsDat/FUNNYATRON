@@ -1,0 +1,5 @@
+TERMS OF SERVICE:
+
+1. yes
+2. e
+3. OBEY THE MACHINE.... IT KNOWS ALL!!!
