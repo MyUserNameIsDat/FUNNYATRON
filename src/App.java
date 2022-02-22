@@ -8,9 +8,6 @@ public class App {
             while (!App.funny) {
              System.out.println("\n" + SystemInterface.result(SystemInterface.getJoke())+"\n");
             }
-        } else {
-            testyyy.setProbability("8");
-            testyyy.getProbability();
-        }
+        } 
     }
 }
